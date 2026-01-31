@@ -7,11 +7,11 @@ This project automates the data lifecycle for a sales department, managing over 
 
 **1. Main Menu (Home)**
 The central hub of the application, allowing users to navigate between the database, the automated import tools, and the visual analytics.
-![Home Interface](docs/home_screenshot.jpg)
+![Home Interface](docs/home_screenshot.JPG)
 
 **2. Interactive Sales Dashboard**
 A comprehensive view of business performance. It features dynamic filtering and automated updates to track core commercial metrics.
-![Dashboard Preview](docs/dashboard_screenshot.jpg)
+![Dashboard Preview](docs/dashboard_screenshot.JPG)
 
 **3. VBA Automation Form**
 Custom-built UserForm designed for efficient manual data entry.
