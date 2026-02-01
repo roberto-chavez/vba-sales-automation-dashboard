@@ -19,7 +19,7 @@ Custom-built UserForm designed for efficient manual data entry.
 
 ---
 
-## Key Functionalities
+## Key Features
 * **VBA Automation:** Custom UserForm interface for manual data entry and high-speed bulk CSV importing.
 * **Data Integrity:** Automated cleaning and consistency checks using `VLOOKUP` for cross-referencing and strict data validation rules.
 * **Commercial Analytics:** Dynamic Pivot Tables that calculate month-over-month (MoM) growth, regional performance, and top-selling products.
@@ -37,7 +37,7 @@ You can test the automation logic using the sample data provided:
 * **VBA Macros:** Custom UserForms and FileSystemObjects for efficient CSV parsing and UI navigation.
 * **Data Visualization:** Design of business-ready KPIs and interactive dynamic charts.
 
-## Project Structure
+## Repository Structure
 * **`/src`**: Contains the main application (`sales_automation_dashboard.xlsm`).
 * **`/data`**: Includes `sales_20250119.csv` for import testing.
 * **`/docs`**: High-resolution screenshots of the Home, Dashboard, and VBA interfaces.
